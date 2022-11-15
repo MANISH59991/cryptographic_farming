@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# CRYPTOGRAPHIC-FARMING
+ 
+⚡ Hackathon Project Template ⚡
+This is a sample submission repository. Please fork this repo and use this as a starting point for your hackathon project.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project Name CRYPTOGRAPHIC FARMING
 
-## Available Scripts
+Team name MESSI
 
-In the project directory, you can run:
+Hackathon Track HACKEREARTH
 
-### `npm start`
+Region location INDIA
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Team Members
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Teammate MANISH R, BLOCKCHAIN DEVELOPER
 
-### `npm test`
+Teammate MOHAMED FARHUN M, FRONTEND DEVELOPER
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Teammate ABISHEK R, SOLIDITY CONTRACT DEPLOYER
 
-### `npm run build`
+Teammate REYAZ KHAN, WEB3 SUPPORTER
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Project Description
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Problem statement:
+Before the crop cycle starts, farmers pay an insurance payment, and anytime a loss occurs on
+their farm, they receive a payout from the insurance. Farmers are able to manage their
+financial exposure to weather extremes, i.e., financial losses brought on by weather extremes,
+because the insurer is taking on all of the insured risk in this way. Additionally, the insurer can
+further hedge the systemic element of the risk with a reinsurance business in case of weather
+hazards that systematically affect all the covered farms.
+SOLUTION TO THE PROBLEM STATEMENT:
+The fundamental facts and knowledge about the natural resources that underpin all types of
+farming constitute the basis of the agri-food systems. It depicts the flow of data and information
+as well as the flow of products from input to output through several phases of value addition as
+well as the movement of money from output to input.Utilizing ICT, the internet of things (IoT),
+and a variety of contemporary data gathering and analysis tools, such as unmanned aerial
+vehicles (UAV), sensors, and machine learning, is a hallmark of cryptographic agriculture.
+Traditional methods manage data in a centralised manner and are vulnerable to cyberattacks,
+faulty data, data distortion, and misuse.It makes sure that all recorded data is unchangeable
+and that the facts and information are transparent to the participants and interested
+parties.Unlike previous systems, which rely on the "security of obscurity," blockchain
+technology produces security through decentralisation.Our project demonstrates how different
+blockchain configurations (permissioned or permissionless), platforms (Ethereum or
+Hyperledger), and consensus mechanisms (Proof of Work/Proof of Stake and (Practical)
+Byzantine Fault Tolerance) may be suitable for data collection at various stages in crop
+agri-food systems.
+ADVANTAGES OF OUR SOLUTION:
+Importantly, collecting reliable data from major farmers rather than smallholders for upload to
+the blockchain is better motivated. Large farmers are more likely to participate in and gain from
+blockchain-based cryptographic agriculture. Thus, this may contribute to or exacerbate the gap
+between large and small farmers.Peer-to-peer transactions can now be conducted
+transparently and without the involvement of a middleman in the agriculture industry or a bank
+(for bitcoins, for example). As a result of the technology's elimination of the requirement for a
+central authority, trust is now granted to cryptography and peer-to-peer architecture rather than
+an authority. As a result, it aids in rebuilding consumer and producer trust, which can lower the
+cost of transactions in the agri-food industry.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+License
+This repository includes an unlicensed statement though you may want to choose a different license.

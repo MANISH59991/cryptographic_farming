@@ -11,15 +11,6 @@ Hackathon Track HACKEREARTH
 
 Region location INDIA
 
-Team Members
-
-Teammate MANISH R, BLOCKCHAIN DEVELOPER
-
-Teammate MOHAMED FARHUN M, FRONTEND DEVELOPER
-
-Teammate ABISHEK R, SOLIDITY CONTRACT DEPLOYER
-
-Teammate REYAZ KHAN, WEB3 SUPPORTER
 
 Project Description
 
